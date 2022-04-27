@@ -17,5 +17,21 @@ h1
     height: 20%;
     background-color: #A6285A;
     color: #FFF;
+    text-align: center;
+    font-size: 6em;
     font-family: Arial, Helvetica, sans-serif;
+}
+ul
+{
+    list-style-type: none;
+}
+li
+{
+    text-align: center;
+}
+img
+{
+   
+    width: 33%;
+    height: auto;
 }
