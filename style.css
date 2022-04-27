@@ -1,0 +1,21 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+html, body
+{
+    height: 100vh;
+    width: 100vw;
+    
+}
+h1
+{
+    height: 20%;
+    background-color: #A6285A;
+    color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
